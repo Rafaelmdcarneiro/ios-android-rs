@@ -1,8 +1,6 @@
 rust-ios-android
 ================
 
-[![Build status](https://travis-ci.org/kennytm/rust-ios-android.svg?branch=master)](https://travis-ci.org/kennytm/rust-ios-android/)
-
 Example project for building a library for iOS + Android in Rust. macOS is
 required for iOS development.
 
